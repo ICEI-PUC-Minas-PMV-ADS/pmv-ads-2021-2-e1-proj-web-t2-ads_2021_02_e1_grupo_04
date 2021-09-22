@@ -1,4 +1,4 @@
-# JUSTIN TIME RESIDENCIAL
+# JUST IN TIME RESIDENCIAL
 
 `Análise e desenvolvimento de sistemas`
 
