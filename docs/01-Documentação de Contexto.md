@@ -24,7 +24,7 @@ Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thin
 
  O objetivo geral deste trabalho é a criação de um sistema de controle de estoque de produtos para residências pelo método de gerenciamento Just in Time, que irá administrar entrada e saída de produtos comprados pelo cliente durante o mês. Eventualmente, estuda-se a possibilidade de o sistema também avaliar o melhor preço e sugerir receitas adequadas para a dieta do cliente, considerando o que ele tem disponível na dispensa.  
 
-Como objetivos específicos, podemos ressaltar: 
+###Como objetivos específicos, podemos ressaltar: 
 
 *Controle administrativo, garantindo o cadastro de entrada e saída de alimentos necessários para determinado período. 
 
