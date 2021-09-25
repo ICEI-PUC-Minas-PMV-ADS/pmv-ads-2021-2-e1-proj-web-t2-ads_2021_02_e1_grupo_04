@@ -7,85 +7,41 @@ Definição do problema e ideia de solução a partir da perspectiva do usuário
 Apresente uma visão geral do que será abordado nesta parte do documento, enumerando as técnicas e/ou ferramentas utilizadas para realizar a especificações do projeto
 
 ## Personas
+### Persona 1
 
-Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em se desenvolver profissionalmente através de um mestrado fora do país, pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está buscando uma agência que o ajude a encontrar universidades na Europa que aceitem alunos estrangeiros.
+**Ana Leticia** tem 33 anos, e atualmente trabalha como dentista. Utiliza as plataformas digitais Whatsapp, Facebook, Instagram e Tiktok. Suas principais motivações são seus pais e sua independencia financeira. Suas frustações atuais são: Compras Irracionais, não saber o que deve estocar e sempre é pega desprevenida sem um determinado alimento ou produto. 
+A falta de experiência faz com que ela compre produtos desnecessários em casa e no consultório. É muito ocupada e as vezes esquece de comprar o que precisa para sua casa.   
+Seus principais Hiobbies e sua historia sao os seguintes: Ana é recém-formada e acabou de sair da casa dos pais. Montou um consultório e cuida de tudo sozinha, por isso sempre busca recursos na internet que possam ajudá-la com a administração dos serviços gerais: tabela de registros de gastos, agenda eletrônica, etc. Nas horas vagas ela gosta de movimentar suas redes sociais e sair com suas amigas para dançar.   
 
-Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
+### Persona 2
 
-> **Links Úteis**:
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
-> - [Mapa de Stalkeholders](https://www.racecomunicacao.com.br/blog/como-fazer-o-mapeamento-de-stakeholders/)
->
-Lembre-se que você deve ser enumerar e descrever precisamente e personalizada todos os clientes ideais que sua solução almeja.
+**Renato Costa** tem 35 anos e atualmente trabalha em uma seguradora, na modalidade home office. Renato preza por uma alimentação vegetariana e saudavel.
+Em seu comportamento podemos destacar os seguintes pontos: Sempre se atualiza sobre novas tecnologias, sempre aprendendo a cozinhar pois no domingo adora preparar o almoço para a familia de amigos.
+Seus principais objetivos e necessidades são: Ter uma variedade nutricional durante a semana, sempre ter em mãos receitas detalhadas e diferentes, receber seus alimentos saudaveis em casa , dentre eles frutas e vegetais e ter um controle do que possui disponivei para evitar desperdicios.
+
+### Persona 3
+
+**Julia Costa** tem 34 anos, é professora particular e preza porter alimentação saudavel dentro de sua dieta que possui restrição de lactose, por ser alérgica.
+Em seu comportamento podemos destacar os seguintes pontos: Esta sempre pode dentor das novas tecnologias, assim como seu marido Renato Costa. Adora cozinhar junto do marido e apoia-lo no almoço de domingo para familia e amigos.
+Seus principais objetivos e necessidades vao de encontro aos do marido, pois preferem ter uma variedade nutricional de qualidade, ter boas receitas a mão quando preceisar, receber frutas e vegerais com certa periodicidade em sua rediencia e controlar desperdicio de alimentos.
+
+### Persona 4
+
+**Marcelo Gonçalves** tem 28 anos e é criador de conteudo digital sobre vida saudavel e atividades fisicas. Adora utilizar Instagram, Facebook, Whatsapp e linkeDin, Tinder e Pinterest. Suas motivações atuais são: Crescimento profissional e cuidados esteticos extremos pois precisa do seu fisico para vender seu produto. Suas frustações atuais são: Falta de rotina, Disponibilidade e acessibilidade a alimentos saudaveis e organicos e falta de controle de sua dispensa, pois sempre falta algo ue ele precisa. Seus principais hobbies são: Amar compartilhar suas experiencias  em suas redes sociais, dietas saudaveis e atividades fisicas ao ar livre.
+
 
 ## Histórias de Usuários
 
-Com base na análise das personas forma identificadas as seguintes histórias de usuários:
+** Documento Anexo **
+ > - [Historias de usuarios] (https://ibb.co/8NTTxBw)
 
-|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
-|--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
-
-Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
-
-> **Links Úteis**:
-> - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
-> - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
-> - [User Stories: requisitos que humanos entendem](https://www.luiztools.com.br/post/user-stories-descricao-de-requisitos-que-humanos-entendem/)
-> - [Histórias de Usuários: mais exemplos](https://www.reqview.com/doc/user-stories-example.html)
-> - [9 Common User Story Mistakes](https://airfocus.com/blog/user-story-mistakes/)
 
 ## Requisitos
 
 As tabelas que se seguem apresentam os requisitos funcionais e não funcionais que detalham o escopo do projeto.
 
-### Requisitos Funcionais
+### Requisitos Funcionais, não fucionais e restrições
 
-|ID    | Descrição do Requisito  | Prioridade |
-|------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+>- [Lista de requisitos] 
+>>(https://sgapucminasbr-my.sharepoint.com/:w:/g/personal/1355229_sga_pucminas_br/EU3xXBRbtVhJtNaaZF7VGHUBXN4_PNfZetkrBDOhfLo1XQ?e=Ia4FFX)
 
-
-### Requisitos não Funcionais
-
-|ID     | Descrição do Requisito  |Prioridade |
-|-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
-
-Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
-
-- [Requisitos Funcionais
- (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):
- correspondem a uma funcionalidade que deve estar presente na
-  plataforma (ex: cadastro de usuário).
-- [Requisitos Não Funcionais
-  (RNF)](https://pt.wikipedia.org/wiki/Requisito_n%C3%A3o_funcional):
-  correspondem a uma característica técnica, seja de usabilidade,
-  desempenho, confiabilidade, segurança ou outro (ex: suporte a
-  dispositivos iOS e Android).
-Lembre-se que cada requisito deve corresponder à uma e somente uma
-característica alvo da sua solução. Além disso, certifique-se de que
-todos os aspectos capturados nas Histórias de Usuário foram cobertos.
-
-## Restrições
-
-O projeto está restrito pelos itens apresentados na tabela a seguir.
-
-|ID| Restrição                                             |
-|--|-------------------------------------------------------|
-|01| O projeto deverá ser entregue até o final do semestre |
-|02| Não pode ser desenvolvido um módulo de backend        |
-
-
-Enumere as restrições à sua solução. Lembre-se de que as restrições geralmente limitam a solução candidata.
-
-> **Links Úteis**:
-> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
