@@ -18,7 +18,7 @@ Este projeto visa a construção de um sistema para estoque residencial que poss
 
 ## Orientador
 
-*Nathalia Assis Valentim
+** Nathalia Assis Valentim
 
 ## Instruções de utilização
 
