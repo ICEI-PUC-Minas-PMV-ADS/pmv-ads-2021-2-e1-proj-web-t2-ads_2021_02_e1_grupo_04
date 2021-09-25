@@ -26,11 +26,11 @@ Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thin
 
 ### Como objetivos específicos, podemos ressaltar: 
 
-*Controle administrativo, garantindo o cadastro de entrada e saída de alimentos necessários para determinado período. 
+#### Controle administrativo, garantindo o cadastro de entrada e saída de alimentos necessários para determinado período. 
 
-*Controle financeiro, que apoiará o usuário na tomada de decisão no momento de planejamento das próximas compras, além da redução de custos. 
+#### Controle financeiro, que apoiará o usuário na tomada de decisão no momento de planejamento das próximas compras, além da redução de custos. 
 
-*Controle de validade e prazo de uso/consumo dos itens disponíveis na dispensa. 
+#### Controle de validade e prazo de uso/consumo dos itens disponíveis na dispensa. 
 
 *Apoio no consumo de alimentos, de forma sustentável e responsável. 
 
