@@ -27,14 +27,14 @@ Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thin
 Como objetivos específicos, podemos ressaltar: 
 
 >>Controle administrativo, garantindo o cadastro de entrada e saída de alimentos necessários para determinado período. 
->>Controle financeiro, que apoiará o usuário na tomada de decisão no momento de planejamento das próximas compras, além da redução de custos. 
->>Controle de validade e prazo de uso/consumo dos itens disponíveis na dispensa. 
->>Apoio no consumo de alimentos, de forma sustentável e responsável. 
->>Apoio no preparo de alimentos, tendo como base o que está disponível na dispensa. 
->>Apoio no planejamento de compras, baseando-se no cardápio escolhido / com o que há disponível na dispensa. 
->>Apoiar o usuário no preparo dos alimentos, levando em base os alimentos disponíveis na dispensa. 
->>Apoiar o usuário a planejar a compra de alimentos, baseando no cardápio semanal cadastrado. 
->>Permitir a geração da ficha kardex3 para controlar as movimentações de produtos por data e suas respectivas quantidades de entrada e saída 
+Controle financeiro, que apoiará o usuário na tomada de decisão no momento de planejamento das próximas compras, além da redução de custos. 
+Controle de validade e prazo de uso/consumo dos itens disponíveis na dispensa. 
+Apoio no consumo de alimentos, de forma sustentável e responsável. 
+Apoio no preparo de alimentos, tendo como base o que está disponível na dispensa. 
+Apoio no planejamento de compras, baseando-se no cardápio escolhido / com o que há disponível na dispensa. 
+Apoiar o usuário no preparo dos alimentos, levando em base os alimentos disponíveis na dispensa. 
+Apoiar o usuário a planejar a compra de alimentos, baseando no cardápio semanal cadastrado. 
+Permitir a geração da ficha kardex3 para controlar as movimentações de produtos por data e suas respectivas quantidades de entrada e saída 
 
 
 ## Justificativa
