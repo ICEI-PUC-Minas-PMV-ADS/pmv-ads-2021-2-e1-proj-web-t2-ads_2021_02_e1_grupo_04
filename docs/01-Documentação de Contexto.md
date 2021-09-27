@@ -2,7 +2,7 @@
 
 O estoque tem um papel importante para o sucesso financeiro de uma família ou de um negócio, principalmente em épocas de grandes crises, como ocorre atualmente com a pandemia da covid-19. Quando falamos em economia familiar ou de negócios, é de suma importância manter o controle sobre as mercadorias, administrando-se bem as fases de entrada e de saídas de produtos de consumo.   
 
-Desde a primeira revolução industrial, o Just-in-time vem sendo uma forma de colaborar com a redução dos desperdícios de recursos, criando um sistema que fornece meios simples e altamente eficazes de controle de produção em escalas industriais. Desenvolvido por Taiichi Ohno, costuma ser definido como a capacidade de se obter a quantidade apropriada de material no momento certo. É visto como resultado de uma série concreta de ações (como a melhoria do controle de estoque e um melhor plano de produção).1 
+Desde a primeira revolução industrial, o Just-in-time vem sendo uma forma de colaborar com a redução dos desperdícios de recursos, criando um sistema que fornece meios simples e altamente eficazes de controle de produção em escalas industriais. Desenvolvido por Taiichi Ohno, costuma ser definido como a capacidade de se obter a quantidade apropriada de material no momento certo. É visto como resultado de uma série concreta de ações (como a melhoria do controle de estoque e um melhor plano de produção).¹ 
 
  
 Este sistema de gerenciamento de estoque tem auxiliado a indústria na produção e fornecimento dos produtos, evitando perdas e excessos. Porém, pode ser aplicável em outras esferas econômicas, como no controle familiar de aquisição de produtos de consumo ou no gerenciamento do estoque no setor supermercadista.  
@@ -13,7 +13,7 @@ Neste presente projeto, busca-se, portanto, a aplicação do método just-in-tim
 
 De acordo com Karla Gomes (2017), o aumento do consumo de refeições fora lar nos últimos anos fez crescer o alerta com relação a comida que vai diretamente para o lixo.  Além deste alerta, o momento que a humanidade vem enfrentando em decorrência da pandemia da corona vírus fez com que a população passasse a consumir e preparar seus alimentos em casa. Contudo, sem acesso às tecnologias que apoiem o consumo consciente, seja por falta de conhecimento ou até mesmo pela falta de tempo, muitos produtos se perdem por falta de controle em tempos de home office.  
 
-Em 2015, o Brasil já estava no ranking dos 10 países que mais desperdiçam alimentos2. Estes desperdícios ocorrem, principalmente, por perda de alimentos aptos ao consumo, seja de forma consciente ou inconsciente. Observa-se que muitas pessoas têm dificuldade de realizar um controle eficiente de suas dispensas e refrigeradores.  
+Em 2015, o Brasil já estava no ranking dos 10 países que mais desperdiçam alimentos². Estes desperdícios ocorrem, principalmente, por perda de alimentos aptos ao consumo, seja de forma consciente ou inconsciente. Observa-se que muitas pessoas têm dificuldade de realizar um controle eficiente de suas dispensas e refrigeradores.  
 
 Além do desperdício, outro grande problema (principalmente enfrentado por jovens que vivem sozinhos) é o preparo da própria alimentação. Muitas pessoas não possuem o conhecimento do que pode ser preparado com o alimento que possuiem na dispensa, nem mesmo o que precisa para preparar pratos específicos para uma refeição básica, ou até mesmo para um petisco fora de hora. 
 
@@ -42,7 +42,7 @@ Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thin
 
 * Apoiar o usuário a planejar a compra de alimentos, baseando no cardápio semanal cadastrado. 
 
-* Permitir a geração da ficha kardex3 para controlar as movimentações de produtos por data e suas respectivas quantidades de entrada e saída 
+* Permitir a geração da ficha kardex³ para controlar as movimentações de produtos por data e suas respectivas quantidades de entrada e saída 
 
 
 ## Justificativa
@@ -51,9 +51,9 @@ Diante do desenvolvimento urbano e o crescimento populacional são notáveis as 
 
 Com isso, temos que muitas famílias são forçadas a realizarem compras de produtos de forma errônea, seja na quantidade ou no produto em si, causando também desperdício e produção de “lixo alimentar”. A falta de organização e planejamento se tornam cada vez mais intensos e comum. Soma-se a isto todos os impactos da codvid-19.  
 
-De acordo com a Empresa Brasileira de Pesquisa Agropecuária (Embrapa) e a Fundação Getúlio Vargas (FGV), o desperdício de alimentos de uma família brasileira composta por três pessoas em um ano pode ultrapassar R$ 1.002,004.  Vários hábitos podem esclarecer esse elevado desperdício, como por exemplo, “o costume de fazer uma grande compra depois de receber o salário e encher a despensa” à supervalorização da abundância e até a cultura de não reaproveitar as sobras.  
+De acordo com a Empresa Brasileira de Pesquisa Agropecuária (Embrapa) e a Fundação Getúlio Vargas (FGV), o desperdício de alimentos de uma família brasileira composta por três pessoas em um ano pode ultrapassar R$ 1.002,00⁴.  Vários hábitos podem esclarecer esse elevado desperdício, como por exemplo, “o costume de fazer uma grande compra depois de receber o salário e encher a despensa” à supervalorização da abundância e até a cultura de não reaproveitar as sobras.  
 
-Contudo, a má administração dos insumos no seio familiar colabora com esse quadro de desperdício e prejuízos, cuja afetação perpassa a esfera das famílias e torna-se um problema mundial. De acordo com o relatório da FAO, braço das Nações Unidas para Alimentação e Agricultura, um terço dos alimentos produzidos no mundo são inutilizados ao longo da cadeia. O desperdício de alimentos ocasiona impactos não só sobre a economia, mas também nos recursos naturais.5    
+Contudo, a má administração dos insumos no seio familiar colabora com esse quadro de desperdício e prejuízos, cuja afetação perpassa a esfera das famílias e torna-se um problema mundial. De acordo com o relatório da FAO, braço das Nações Unidas para Alimentação e Agricultura, um terço dos alimentos produzidos no mundo são inutilizados ao longo da cadeia. O desperdício de alimentos ocasiona impactos não só sobre a economia, mas também nos recursos naturais.⁵    
 
 Just-in-time (JIT) significa basicamente produzir as unidades necessárias nas quantidades necessárias dentro do tempo necessário. Tendo isso em vista, ele é um sistema que pode ser adaptado no controle de desperdício. O sistema poderá ser eficiente também em outras áreas, como na estocagem de produtos de consumo em supermercados.  
 
