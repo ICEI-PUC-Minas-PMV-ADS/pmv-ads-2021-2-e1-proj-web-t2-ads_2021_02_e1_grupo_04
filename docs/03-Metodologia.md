@@ -5,11 +5,11 @@
 
 Durante a realização deste projeto, utilizaremos quatro ferramentas disponíveis no mercado, sendo elas: o GitHub para o versionamento do código fonte do projeto e repositório de arquivos devido a sua robustez e a sua praticidade e automatização durante o desenvolvimento em equipe, o Teams e o WhatsApp para comunicação de equipe, o Trello como Kanbam para o gerenciamento dos backlogs e o Figma para a prototipação da interface gráfica.
 
-##Relação de Ambientes de Trabalho
+## Relação de Ambientes de Trabalho
 
 Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a relação dos ambientes com seu respectivo propósito é apresentada na tabela que se segue. 
 
-| Ambiente | Plataforma | Link de Acesso |
+| **Ambiente** | **Plataforma** | **Link de Acesso** |
 |--- |--- |--- |
 | Repositório de código fonte e arquivos| GitHub |https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2021-2-e1-proj-web-t2-ads_2021_02_e1_grupo_04/blob/main/docs/03-Metodologia.md|
 | Reuniões  | Teams | https://teams.microsoft.com/l/team/19%3a5hjt0p_P8CTVN1IqTwvwXQAorCU6LlM92bSIR99wn0c1%40thread.tacv2/conversations?groupId=1ab6ef05-9999-447e-9e1c-a828c3563eb1&tenantId=14cbd5a7-ec94-46ba-b314-cc0fc972a161 |
@@ -17,10 +17,27 @@ Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a 
 | Projeto de Interface e  Wireframes | Figma | https://www.figma.com/file/fMAMwSgbI0nQLdB8SWCByx/Untitled?node-id=1%3A2 |
 | Gerenciamento do Projeto | Trello | https://trello.com/b/6WRrzOdq/jit-home |
 
-##Gestão de código fonte 
+
+
+## Gestão de código fonte 
 
 Para gestão do código fonte do software desenvolvido pela equipe, o grupo utiliza um processo baseado no Git Flow abordado por Vietro (2015), mostrado na Figura a seguir. Desta forma, todas as manutenções no código são realizadas em branches separados, identificados como Hotfix, Release, Develop e Feature. Uma explicação rápida sobre este
  processo é apresentada no vídeo ["The gitflow workflow - in less than 5 mins".](https://www.youtube.com/watch?v=1SXpE08hvGs)
+
+## Gerenciamento do Projeto
+
+A equipe utiliza metodologias ágeis, tendo escolhido o Scrum como base para definição do processo de desenvolvimento.
+
+A equipe está organizada da seguinte maneira:
+
+*	Scrum Master: Felipe Domingos
+*	Product Owner: Alex Galdino
+*	Equipe de Desenvolvimento: Livia Silva e Oscar Pereira 
+*	Equipe de Design: Gabriel 
+
+
+
+
 
 
 
