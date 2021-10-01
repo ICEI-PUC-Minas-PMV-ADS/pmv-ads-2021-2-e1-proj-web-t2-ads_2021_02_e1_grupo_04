@@ -35,11 +35,22 @@ A equipe está organizada da seguinte maneira:
 *	Equipe de Desenvolvimento: Livia Silva e Oscar Pereira 
 *	Equipe de Design: Gabriel 
 
+Para organização e distribuição das tarefas do projeto, a equipe está utilizando o Trello estruturado com as seguintes listas: 
 
 
+***Itens de Backlog:** Recebe as tarefas a serem trabalhadas e representa o Product Backlog. Todas as atividades identificadas no decorrer do projeto também devem ser incorporadas a esta lista.
 
+***Design:** Focado nas tarefas relacionado a interface.
 
+***A Fazer:** Esta lista representa o Sprint Backlog. Este é o Sprint atual que estamos trabalhando.
 
+***Em andamento:** Essas são as coisas em que as pessoas estão trabalhando.
+
+***Revisão de código:** Esta lista é para itens na revisão de código.
+
+***Teste:** Os cartões chegam aqui após a revisão do código e estamos prontos para o controle de qualidade e para corrigir as coisas que o controle de qualidade encontra. A revisão do design também acontece nesta fase.
+
+***Concluído** Nós enviamos para produção! 
 
 
 
