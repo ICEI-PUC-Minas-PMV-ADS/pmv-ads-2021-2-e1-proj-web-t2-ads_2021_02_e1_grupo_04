@@ -17,7 +17,10 @@ Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a 
 | Projeto de Interface e  Wireframes | Figma | https://www.figma.com/file/fMAMwSgbI0nQLdB8SWCByx/Untitled?node-id=1%3A2 |
 | Gerenciamento do Projeto | Trello | https://trello.com/b/6WRrzOdq/jit-home |
 
+##Gestão de código fonte 
 
+Para gestão do código fonte do software desenvolvido pela equipe, o grupo utiliza um processo baseado no Git Flow abordado por Vietro (2015), mostrado na Figura a seguir. Desta forma, todas as manutenções no código são realizadas em branches separados, identificados como Hotfix, Release, Develop e Feature. Uma explicação rápida sobre este
+ processo é apresentada no vídeo ["The gitflow workflow - in less than 5 mins".](https://www.youtube.com/watch?v=1SXpE08hvGs)
 
 
 
