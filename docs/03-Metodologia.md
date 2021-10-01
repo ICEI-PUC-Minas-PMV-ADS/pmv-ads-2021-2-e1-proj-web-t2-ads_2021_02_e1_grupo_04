@@ -24,6 +24,8 @@ Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a 
 Para gestão do código fonte do software desenvolvido pela equipe, o grupo utiliza um processo baseado no Git Flow abordado por Vietro (2015), mostrado na Figura a seguir. Desta forma, todas as manutenções no código são realizadas em branches separados, identificados como Hotfix, Release, Develop e Feature. Uma explicação rápida sobre este
  processo é apresentada no vídeo ["The gitflow workflow - in less than 5 mins".](https://www.youtube.com/watch?v=1SXpE08hvGs)
 
+## AQUI DEVERIA VIR A IMAGEM DA NUMERAÇÃO DO VERSIONAMENTO
+
 ## Gerenciamento do Projeto
 
 A equipe utiliza metodologias ágeis, tendo escolhido o Scrum como base para definição do processo de desenvolvimento.
@@ -53,7 +55,7 @@ Para organização e distribuição das tarefas do projeto, a equipe está utili
 ***Concluído** Nós enviamos para produção! 
 
 
-
+## ISTO É O QUE ESTAVA ESCRITO ANTES. CREIO QUE PODEMOS AGAGAR, POIS ESTÁ DIFERENTE DO MODELO
 
 ## Controle de Versão
 
