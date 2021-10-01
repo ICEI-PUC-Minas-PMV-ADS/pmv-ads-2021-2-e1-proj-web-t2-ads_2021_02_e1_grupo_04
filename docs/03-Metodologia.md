@@ -3,7 +3,7 @@
 
 <span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a></span>
 
-Durante a realização deste projeto, utilizaremos quatro ferramentas disponíveis no mercado, sendo elas: o GitHub para o versionamento do código fonte do projeto e repositório de arquivos devido a sua robustez e a sua praticidade e automatização durante o desenvolvimento em equipe, o Teams e o WhatsApp para comunicação de equipe, o Trello como Kanbam para o gerenciamento dos backlogs e o Figma para a prototipação da interface gráfica.
+Durante a realização deste projeto, utilizaremos cinco ferramentas disponíveis no mercado, sendo elas: o GitHub para o versionamento do código fonte do projeto e repositório de arquivos devido a sua robustez e a sua praticidade e automatização durante o desenvolvimento em equipe, o Teams e o WhatsApp para comunicação de equipe, o Trello como Kanbam para o gerenciamento dos backlogs e o Figma para a prototipação da interface gráfica.
 
 ## Relação de Ambientes de Trabalho
 
@@ -34,7 +34,7 @@ A equipe está organizada da seguinte maneira:
 
 *	Scrum Master: Felipe Domingos
 *	Product Owner: Alex Galdino
-*	Equipe de Desenvolvimento: Livia Silva e Oscar Pereira 
+*	Equipe de Desenvolvimento: Lívia Silva e Oscar Pereira 
 *	Equipe de Design: Gabriel 
 
 Para organização e distribuição das tarefas do projeto, a equipe está utilizando o Trello estruturado com as seguintes listas: 
