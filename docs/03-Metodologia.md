@@ -63,4 +63,17 @@ IMAGEM A SER ADICIONADA
 
 A solução implementada conta com os seguintes módos: 
 
-- 
+- Navegador - Interface básica do sistema.
+- Páginas Web - Conjunto de arquivos HTML, CSS, JavaScript e imagens que implementam as funcionalidades do sistema. 
+- Local Storage - armazenamento mantido no Navegador, onde são implementados bancos de dados baseados em JSON. São eles:  
+- Cadastro de usuários – Usuários que possuem acesso ao sistema.  
+- Produtos e Categorias- registro de opiniões dos usuários sobre as notícias.
+- Recipe API - plataforma que permite o acesso à receitas exibidas no site. 
+- Hospedagem - local na Internet onde as páginas são mantidas e acessadas pelo navegador.  
+
+  Hospedagem
+  
+  O site utiliza a plataforma do Heroku como ambiente de hospedagem do site do projeto. O site é mantido no ambiente da URL: 
+  
+  A publicação do site no Heroku é feita por meio de uma submissão do projeto (push) via git para o repositório remoto que se encontra no endereço: 
+  
