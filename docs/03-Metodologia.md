@@ -20,10 +20,10 @@ Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a 
 ### Gestão do Código Fonte
 Para gestão do código fonte do software desenvolvido pela equipe, o grupo utilizará um processo baseado em git brahcn, que, para um time de 5 pessoas é aceitável e mais simples de se trabalhar que o modelo gitflow. Incialmente, a necessidade do projeto será atendida com as seguintes branchs. 
 
--Master, onde  ficará a aplicação já pronta para a produção.
--Homolog, onde ficará uma versão estável pronta para testes.
--Dev 1 , que contará com o trabalho de 3 analistas.
--Dev 2, que contará com o trabalho de 2 analistas.
+- Master, onde  ficará a aplicação já pronta para a produção.
+- Homolog, onde ficará uma versão estável pronta para testes.
+- Dev 1 , que contará com o trabalho de 3 analistas.
+- Dev 2, que contará com o trabalho de 2 analistas.
 
 IMAGEM A SER INCERIDA AQUI
 
@@ -35,7 +35,7 @@ A equipe está organizada da seguinte maneira:
 - Product Owner: Alex de Souza Galdino
 - Equipe de Desenvolvimento:
 - Oscar Yañes
--- Lívia Cristina
+- Lívia Cristina
 - Alex Galdino
 - Gabriel de Matos
 - Equipe de  Design
@@ -43,13 +43,13 @@ A equipe está organizada da seguinte maneira:
 
 Para organização e distribuição das tarefas do projeto, a equipe está utilizando o Trello estruturado com as seguintes listas:
 
--Design: esta lista apresenta necessidades identificadas para ajustes / alteração de desing.
--Backlog: recebe as tarefas a serem trabalhadas e representa o Product Backlog. Todas as atividades identificadas no decorrer do projeto também devem ser incorporadas a esta lista. 
--A Fazer: Esta lista representa o Sprint Backlog. Este é o Sprint atual que estamos trabalhando.
--Em Andamento: Quando uma tarefa tiver sido iniciada, ela é movida para cá. 
--Fase de Teste: Checagem de Qualidade. Quando as tarefas são concluídas, eles são movidas para o “CQ”. No final da semana, eu revejo essa lista para garantir que tudo saiu perfeito.
--Concluído: nesta lista são colocadas as tarefas que passaram pelos testes e controle de qualidade e estão prontos para ser entregues ao usuário. Não há mais edições ou revisões necessárias, ele está agendado e pronto para a ação. 
-Impedimentos: Quando alguma coisa impede a conclusão da tarefa, ela é movida para esta lista juntamente com um comentário sobre o que está travando a tarefa. 
+- Design: esta lista apresenta necessidades identificadas para ajustes / alteração de desing.
+- Backlog: recebe as tarefas a serem trabalhadas e representa o Product Backlog. Todas as atividades identificadas no decorrer do projeto também devem ser incorporadas a esta lista. 
+- A Fazer: Esta lista representa o Sprint Backlog. Este é o Sprint atual que estamos trabalhando.
+- Em Andamento: Quando uma tarefa tiver sido iniciada, ela é movida para cá. 
+- Fase de Teste: Checagem de Qualidade. Quando as tarefas são concluídas, eles são movidas para o “CQ”. No final da semana, eu revejo essa lista para garantir que tudo saiu perfeito.
+- Concluído: nesta lista são colocadas as tarefas que passaram pelos testes e controle de qualidade e estão prontos para ser entregues ao usuário. Não há mais edições ou revisões necessárias, ele está agendado e pronto para a ação. 
+- Impedimentos: Quando alguma coisa impede a conclusão da tarefa, ela é movida para esta lista juntamente com um comentário sobre o que está travando a tarefa. 
 
 
 
