@@ -51,5 +51,16 @@ Para organização e distribuição das tarefas do projeto, a equipe está utili
 - Concluído: nesta lista são colocadas as tarefas que passaram pelos testes e controle de qualidade e estão prontos para ser entregues ao usuário. Não há mais edições ou revisões necessárias, ele está agendado e pronto para a ação. 
 - Impedimentos: Quando alguma coisa impede a conclusão da tarefa, ela é movida para esta lista juntamente com um comentário sobre o que está travando a tarefa. 
 
+#### Arquitetura da Solução
 
+Nesta seção são apresentados os detalhes técnicos da solução criada pela equipe, tratando dos componentes que fazem parte da solução e do ambiente de hospedagem da solução. 
 
+Diagrama de Computadores
+
+Os componentes que fazem parte da solução são apresentados na Figura que se segue. 
+
+IMAGEM A SER ADICIONADA
+
+A solução implementada conta com os seguintes módos: 
+
+- 
