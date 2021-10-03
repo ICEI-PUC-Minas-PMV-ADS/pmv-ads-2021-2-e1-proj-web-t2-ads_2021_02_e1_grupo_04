@@ -26,7 +26,8 @@ Para gestão do código fonte do software desenvolvido pela equipe, o grupo util
 - Dev 2, que contará com o trabalho de 2 analistas
 
 Gestao do Fonte via Branch
-[link text] (https://ibb.co/4SF3mQb)
+[link text]
+(https://ibb.co/4SF3mQb)
 
 #### Gerenciamento do Projeto
 
@@ -56,7 +57,8 @@ Para organização e distribuição das tarefas do projeto, a equipe está utili
 O quadro kanban do grupo no Trello está disponível através da URL  JIT-Home | Trelloe é apresentado, no estado atual, na Figura 2. A definição desta estrutura se baseou na proposta feita por Littlefield (2016).
 
 Organização Trello
-[link text] (https://ibb.co/3W5g9hv)
+[link text]
+(https://ibb.co/3W5g9hv)
 
 
 #### Arquitetura da Solução
@@ -68,7 +70,8 @@ Diagrama de Computadores
 Os componentes que fazem parte da solução são apresentados na Figura que se segue. 
 
 Arquitetura
-[link text] (https://ibb.co/rs7RwxR)
+[link text]
+(https://ibb.co/rs7RwxR)
 
 A solução implementada conta com os seguintes módos: 
 
