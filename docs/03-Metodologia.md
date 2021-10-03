@@ -3,8 +3,6 @@
 
 <span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a></span>
 
-Durante a realização deste projeto, utilizaremos três ferramentas disponíveis no mercado, sendo elas: o GitHub para o versionamento do código fonte do projeto e repositório de arquivos devido a sua robustez e a sua praticidade e automatização durante o desenvolvimento em equipe, o Trello como Kanbam para o gerenciamento dos backlogs e o MarvelApp para a prototipação da interface gráfica.
-
 ##  Relação de Ambientes de Traalho
 
 Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a relação dos ambientes com seu respectivo propósito é apresentada na tabela que se segue.
