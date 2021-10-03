@@ -23,9 +23,10 @@ Para gestão do código fonte do software desenvolvido pela equipe, o grupo util
 - Master, onde  ficará a aplicação já pronta para a produção.
 - Homolog, onde ficará uma versão estável pronta para testes.
 - Dev 1 , que contará com o trabalho de 3 analistas.
-- Dev 2, que contará com o trabalho de 2 analistas.
+- Dev 2, que contará com o trabalho de 2 analistas
 
-IMAGEM A SER INCERIDA AQUI
+Gestao do Fonte via Branch
+[link text] (https://ibb.co/4SF3mQb)
 
 #### Gerenciamento do Projeto
 
@@ -51,6 +52,13 @@ Para organização e distribuição das tarefas do projeto, a equipe está utili
 - Concluído: nesta lista são colocadas as tarefas que passaram pelos testes e controle de qualidade e estão prontos para ser entregues ao usuário. Não há mais edições ou revisões necessárias, ele está agendado e pronto para a ação. 
 - Impedimentos: Quando alguma coisa impede a conclusão da tarefa, ela é movida para esta lista juntamente com um comentário sobre o que está travando a tarefa. 
 
+
+O quadro kanban do grupo no Trello está disponível através da URL  JIT-Home | Trelloe é apresentado, no estado atual, na Figura 2. A definição desta estrutura se baseou na proposta feita por Littlefield (2016).
+
+Organização Trello
+[link text] (https://ibb.co/3W5g9hv)
+
+
 #### Arquitetura da Solução
 
 Nesta seção são apresentados os detalhes técnicos da solução criada pela equipe, tratando dos componentes que fazem parte da solução e do ambiente de hospedagem da solução. 
@@ -59,7 +67,8 @@ Diagrama de Computadores
 
 Os componentes que fazem parte da solução são apresentados na Figura que se segue. 
 
-IMAGEM A SER ADICIONADA
+Arquitetura
+[link text] (https://ibb.co/rs7RwxR)
 
 A solução implementada conta com os seguintes módos: 
 
