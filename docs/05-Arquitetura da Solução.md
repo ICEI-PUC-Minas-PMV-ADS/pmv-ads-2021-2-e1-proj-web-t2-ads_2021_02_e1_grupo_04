@@ -4,13 +4,10 @@
 
 Nesta seção são apresentados os detalhes técnicos da solução criada pela equipe, tratando dos componentes que fazem parte da solução e do ambiente de hospedagem da solução.
 
-Diagrama de Computadores
-
+##Diagrama de Computadores
 Os componentes que fazem parte da solução são apresentados na Figura que se segue.
 
-Arquitetura
-[link text]
-(https://ibb.co/rs7RwxR)
+![image](https://user-images.githubusercontent.com/91296105/135927197-ff51865f-b650-4086-9311-1c64eddf7fce.png)
 
 A solução implementada conta com os seguintes módos:
 
@@ -25,5 +22,7 @@ A solução implementada conta com os seguintes módos:
 Hospedagem 
 
 O site utiliza a plataforma do Heroku como ambiente de hospedagem do site do projeto. O site é mantido no ambiente da URL:
+https://git.heroku.com/jithome.git 
 
 A publicação do site no Heroku é feita por meio de uma submissão do projeto (push) via git para o repositório remoto que se encontra no endereço:
+https://git.heroku.com/jithome.git 
