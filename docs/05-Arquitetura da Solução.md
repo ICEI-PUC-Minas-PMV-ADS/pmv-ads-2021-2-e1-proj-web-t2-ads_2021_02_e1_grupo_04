@@ -29,3 +29,5 @@ https://git.heroku.com/jithome.git
 A publicação do site no Heroku é feita por meio de uma submissão do projeto (push) via git para o repositório remoto que se encontra no endereço:
 
 https://git.heroku.com/jithome.git 
+
+....
