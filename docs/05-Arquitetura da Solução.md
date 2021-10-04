@@ -8,7 +8,9 @@ Diagrama de Computadores
 
 Os componentes que fazem parte da solução são apresentados na Figura que se segue.
 
-Arquitetura [link text] (https://ibb.co/rs7RwxR)
+Arquitetura
+[link text]
+(https://ibb.co/rs7RwxR)
 
 A solução implementada conta com os seguintes módos:
 
