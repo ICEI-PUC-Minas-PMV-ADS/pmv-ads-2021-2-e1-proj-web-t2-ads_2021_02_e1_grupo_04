@@ -34,7 +34,7 @@ A equipe está organizada da seguinte maneira:
 - Scrum Master: Felipe Helison dos Santos Desidério
 - Product Owner: Alex de Souza Galdino
 - Equipe de Desenvolvimento:
-- Oscar Yañes
+- Oscar Pereira
 - Lívia Cristina
 - Alex Galdino
 - Gabriel de Matos
