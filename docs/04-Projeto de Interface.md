@@ -3,33 +3,67 @@
 
 <span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a></span>
 
-Visão geral da interação do usuário pelas telas do sistema e protótipo interativo das telas com as funcionalidades que fazem parte do sistema (wireframes).
-
- Apresente as principais interfaces da plataforma. Discuta como ela foi elaborada de forma a atender os requisitos funcionais, não funcionais e histórias de usuário abordados nas <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a>.
+Dentre as preocupações para a montagem da interface do sistema, estamos estabelecendo foco em questões como agilidade, acessibilidade e usabilidade. Desta forma, o projeto tem uma identidade visual padronizada em todas as telas que são projetadas para funcionamento em desktops e dispositivos móveis. 
 
 ## User Flow
 
-![Exemplo de UserFlow](img/userflow.jpg)
+O diagrama apresentado na Figura 01 mostra o fluxo de interação do usuário pelas telas do sistema. Cada uma das telas deste fluxo é detalhada na seção de Wireframes que se segue.
 
-Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor mapear todo fluxo de telas do site ou app. Essa técnica funciona para alinhar os caminhos e as possíveis ações que o usuário pode fazer junto com os membros de sua equipe.
-
-> **Links Úteis**:
-> - [User Flow: O Quê É e Como Fazer?](https://medium.com/7bits/fluxo-de-usu%C3%A1rio-user-flow-o-que-%C3%A9-como-fazer-79d965872534)
-> - [User Flow vs Site Maps](http://designr.com.br/sitemap-e-user-flow-quais-as-diferencas-e-quando-usar-cada-um/)
-> - [Top 25 User Flow Tools & Templates for Smooth](https://www.mockplus.com/blog/post/user-flow-tools)
-
+IMAGEM A SER ADICIONADA
 
 ## Wireframes
 
-![Exemplo de Wireframe](img/wireframe-example.png)
+Conforme fluxo de telas do projeto, apresentado no item anterior, as telas do sistema são apresentadas em detalhes nos itens que se seguem. As telas do sistema apresentam uma estrutura comum que é apresentada na Figura 02. Nesta estrutura, existem 3 grandes blocos, descritos a seguir. São eles: 
 
-São protótipos usados em design de interface para sugerir a estrutura de um site web e seu relacionamentos entre suas páginas. Um wireframe web é uma ilustração semelhante do layout de elementos fundamentais na interface.
+- Cabeçalho - local onde são dispostos elementos fixos de identidade (logo) e navegação principal do site (menu da aplicação); 
+- Conteúdo - apresenta o conteúdo da tela em questão; 
+
+iMAGEM A SER ADICIONADA 
  
-> **Links Úteis**:
-> - [Protótipos vs Wireframes](https://www.nngroup.com/videos/prototypes-vs-wireframes-ux-projects/)
-> - [Ferramentas de Wireframes](https://rockcontent.com/blog/wireframes/)
-> - [MarvelApp](https://marvelapp.com/developers/documentation/tutorials/)
-> - [Figma](https://www.figma.com/)
-> - [Adobe XD](https://www.adobe.com/br/products/xd.html#scroll)
-> - [Axure](https://www.axure.com/edu) (Licença Educacional)
-> - [InvisionApp](https://www.invisionapp.com/) (Licença Educacional)
+ Tela de Login 
+
+A tela de login permite ao usuário se conectar para ter acesso ao sistema. 
+
+IMAGEM  A SER ADICIONADA
+
+Tela de Cadastro 
+
+A tela de Cadastro permite ao usuário não cadastrado criar seu cadastro e ter acesso ao sistema por completo.  
+
+IMAGEM A SER ADICIONADA
+
+Tela Inicial 
+
+Assim que o usuário está conectado ao sistema, uma tela que permite acessar as outras áreas do sistema é exibida. 
+
+IMAGEM A SER ADICIONADA
+
+Tela de Dietas e Receitas 
+
+A tela de Dietas e Receitas apresenta uma série de indicações ao usuário, como, o que fazer com os alimentos que estão em seu estoque, receitas populares e indicações para ele.  
+IMAGEM A SER  ADICIONADA 
+
+Tela de Controle de Estoque 
+
+A tela que permite ao usuário visualizar seu estoque, com contagem de itens, data de validade dos produtos, data de entrada no estoque e etc. 
+
+IMAGEM A SER ADICIONADA 
+
+Tela de Cadastro de Categoria 
+
+A tela de Cadastro de Categoria permite criar uma categoria para um produto, como por exemplo, criar a categoria de ‘’massas’’, e ter nela produtos como macarrão
+
+IMAGEM A SER ADICIONADA 
+
+Tela de Cadastro de Grupo 
+
+Na tela de Cadastro de Grupo, pode-se criar um grupo para o usuário, assim, filtrando as dicas e receitas que ele terá acesso. 
+
+IMAGEM A SER ADICIONADA
+
+Tela de Cadastro de Produto 
+
+Na tela de Cadastro de Produto, o usuário insere um novo produto que não está cadastrado no sistema, tendo que inserir quantidade, código de barras, validade e etc. 
+
+ IMAGEM A SER ADICIONADA 
+
