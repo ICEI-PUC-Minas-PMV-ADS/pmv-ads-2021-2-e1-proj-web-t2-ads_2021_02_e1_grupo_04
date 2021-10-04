@@ -1,6 +1,6 @@
 # JUST IN TIME RESIDENCIAL
 
-`Análise e desenvolvimento de sistemas
+`Análise e desenvolvimento de sistemas.
 
 `Projeto Interdisciplinar`
 
