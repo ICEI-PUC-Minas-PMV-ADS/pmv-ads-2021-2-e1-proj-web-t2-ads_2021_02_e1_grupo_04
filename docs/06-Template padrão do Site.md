@@ -10,9 +10,7 @@ Layout padrão do site (HTML e CSS) que será utilizado em todas as páginas com
 
 ![image](https://user-images.githubusercontent.com/41959890/138696637-e595cf25-040f-4e1c-bfdd-6880f94ebcad.png)
 
-
-
-<!-- O template criado está disponível no site (http://jithome-com-br.preview-domain.com/main.html) e é composto pelos seguintes layouts:
+O template criado está disponível no site (http://jithome-com-br.preview-domain.com/main.html) e é composto pelos seguintes layouts: 
 
 - Tela Inicial
 - Tela de Login
@@ -58,3 +56,6 @@ Tela de Cadastro de Grupo
 Permite que o usuário entre e pesquises grupos que possivelmente gostaria de participar.
  
 ![image](https://user-images.githubusercontent.com/91296105/138172906-69709f69-c55a-4218-bcfd-4807884d14e6.png)
+
+
+
