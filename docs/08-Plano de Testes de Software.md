@@ -7,7 +7,7 @@ A Ferramenta de testes que sera utilizada é o Excel com uma planilha baseada em
 Os usuários selecionados para o teste são todos integrantes do grupo.
 
 
-<span style="color:red"> Documentação Técnica: <a href="https://we.tl/t-csIPHaZvMg">
+<span style="color:red"> <h2>Documentação Técnica:</h2> <a href="https://we.tl/t-csIPHaZvMg"> </a>
 
 
 
