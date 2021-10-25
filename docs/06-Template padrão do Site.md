@@ -4,9 +4,8 @@
 
 Layout padrão do site (HTML e CSS) que será utilizado em todas as páginas com a definição de identidade visual, aspectos de responsividade e iconografia.
 
-> **Links Úteis**:
->
-> - [CSS Website Layout (W3Schools)](https://www.w3schools.com/css/css_website_layout.asp)
-> - [Website Page Layouts](http://www.cellbiol.com/bioinformatics_web_development/chapter-3-your-first-web-page-learning-html-and-css/website-page-layouts/)
-> - [Perfect Liquid Layout](https://matthewjamestaylor.com/perfect-liquid-layouts)
-> - [How and Why Icons Improve Your Web Design](https://usabilla.com/blog/how-and-why-icons-improve-you-web-design/)
+
+![image](https://user-images.githubusercontent.com/41959890/138696571-2d25b5b3-a09d-4752-b424-6e43f7743631.png)
+
+
+![image](https://user-images.githubusercontent.com/41959890/138696637-e595cf25-040f-4e1c-bfdd-6880f94ebcad.png)
