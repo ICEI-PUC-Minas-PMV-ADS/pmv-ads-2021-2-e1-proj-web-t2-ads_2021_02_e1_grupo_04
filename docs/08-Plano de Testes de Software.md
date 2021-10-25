@@ -7,6 +7,9 @@ A Ferramenta de testes que sera utilizada é o Excel com uma planilha baseada em
 Os usuários selecionados para o teste são todos integrantes do grupo.
 
 
+<span style="color:red"> Documentação Técnica: <a href="https://we.tl/t-csIPHaZvMg">
+
+
 
 
 Apresente os cenários de testes utilizados na realização dos testes da sua aplicação. Escolha cenários de testes que demonstrem os requisitos sendo satisfeitos.
