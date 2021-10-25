@@ -12,7 +12,7 @@ Layout padrão do site (HTML e CSS) que será utilizado em todas as páginas com
 
 
 
-O template criado está disponível no site (...) e é composto pelos seguintes layouts: 
+<!-- O template criado está disponível no site (http://jithome-com-br.preview-domain.com/main.html) e é composto pelos seguintes layouts:
 
 - Tela Inicial
 - Tela de Login
