@@ -3,33 +3,67 @@
 
 <span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a></span>
 
-Visão geral da interação do usuário pelas telas do sistema e protótipo interativo das telas com as funcionalidades que fazem parte do sistema (wireframes).
 
- Apresente as principais interfaces da plataforma. Discuta como ela foi elaborada de forma a atender os requisitos funcionais, não funcionais e histórias de usuário abordados nas <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a>.
 
 ## User Flow
 
-![Exemplo de UserFlow](img/userflow.jpg)
+O diagrama apresentado na Figura 01 mostra o fluxo de interação do usuário pelas telas do sistema. Cada uma das telas deste fluxo é detalhada na seção de Wireframes que se segue.
 
-Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor mapear todo fluxo de telas do site ou app. Essa técnica funciona para alinhar os caminhos e as possíveis ações que o usuário pode fazer junto com os membros de sua equipe.
-
-> **Links Úteis**:
-> - [User Flow: O Quê É e Como Fazer?](https://medium.com/7bits/fluxo-de-usu%C3%A1rio-user-flow-o-que-%C3%A9-como-fazer-79d965872534)
-> - [User Flow vs Site Maps](http://designr.com.br/sitemap-e-user-flow-quais-as-diferencas-e-quando-usar-cada-um/)
-> - [Top 25 User Flow Tools & Templates for Smooth](https://www.mockplus.com/blog/post/user-flow-tools)
-
+![image](https://user-images.githubusercontent.com/91296105/135925780-4f30eb2a-07d7-41a3-a20e-5fc4767340e1.png)
 
 ## Wireframes
 
-![Exemplo de Wireframe](img/wireframe-example.png)
+Conforme fluxo de telas do projeto, apresentado no item anterior, as telas do sistema são apresentadas em detalhes nos itens que se seguem. As telas do sistema apresentam uma estrutura comum que é apresentada na Figura 02. Nesta estrutura, existem 3 grandes blocos, descritos a seguir. São eles: 
 
-São protótipos usados em design de interface para sugerir a estrutura de um site web e seu relacionamentos entre suas páginas. Um wireframe web é uma ilustração semelhante do layout de elementos fundamentais na interface.
+- Cabeçalho - local onde são dispostos elementos fixos de identidade (logo) e navegação principal do site (menu da aplicação); 
+- Conteúdo - apresenta o conteúdo da tela em questão; 
+
+![image](https://user-images.githubusercontent.com/91296105/135925838-8a67dbf9-02c3-4216-b669-ee653fa4411a.png)
+
+ Tela de Login 
+
+A tela de login permite ao usuário se conectar para ter acesso ao sistema. 
+
+![image](https://user-images.githubusercontent.com/91296105/135925875-52b48dff-5c51-46a9-acb2-4101b24ada2c.png)
+
+Tela de Cadastro 
+
+A tela de Cadastro permite ao usuário não cadastrado criar seu cadastro e ter acesso ao sistema por completo.  
+
+![image](https://user-images.githubusercontent.com/91296105/135925977-5bf54a60-4040-4591-a4f1-c326ddd9e62f.png)
+
+Tela Inicial 
+
+Assim que o usuário está conectado ao sistema, uma tela que permite acessar as outras áreas do sistema é exibida. 
+
+![image](https://user-images.githubusercontent.com/91296105/135926021-6e834d8a-42b3-402d-a34a-a5f4418120f2.png)
+
+Tela de Dietas e Receitas 
+
+A tela de Dietas e Receitas apresenta uma série de indicações ao usuário, como, o que fazer com os alimentos que estão em seu estoque, receitas populares e indicações para ele.  
+![image](https://user-images.githubusercontent.com/91296105/135926107-92afe8c4-0893-4973-96b7-5be1a933abb9.png)
  
-> **Links Úteis**:
-> - [Protótipos vs Wireframes](https://www.nngroup.com/videos/prototypes-vs-wireframes-ux-projects/)
-> - [Ferramentas de Wireframes](https://rockcontent.com/blog/wireframes/)
-> - [MarvelApp](https://marvelapp.com/developers/documentation/tutorials/)
-> - [Figma](https://www.figma.com/)
-> - [Adobe XD](https://www.adobe.com/br/products/xd.html#scroll)
-> - [Axure](https://www.axure.com/edu) (Licença Educacional)
-> - [InvisionApp](https://www.invisionapp.com/) (Licença Educacional)
+Tela de Controle de Estoque 
+
+A tela que permite ao usuário visualizar seu estoque, com contagem de itens, data de validade dos produtos, data de entrada no estoque e etc. 
+
+![image](https://user-images.githubusercontent.com/91296105/135926156-cfd861f5-6833-4f21-a60d-ea009d6e2ebc.png)
+
+Tela de Cadastro de Categoria 
+
+A tela de Cadastro de Categoria permite criar uma categoria para um produto, como por exemplo, criar a categoria de ‘’massas’’, e ter nela produtos como macarrão
+
+![image](https://user-images.githubusercontent.com/91296105/135926254-d1386961-6426-4ba3-bd60-d76a58e7876c.png)
+
+Tela de Cadastro de Grupo 
+
+Na tela de Cadastro de Grupo, pode-se criar um grupo para o usuário, assim, filtrando as dicas e receitas que ele terá acesso. 
+
+![image](https://user-images.githubusercontent.com/91296105/135926300-dea394f1-59b6-4c72-b2ef-636b87c432ba.png)
+
+Tela de Cadastro de Produto 
+
+Na tela de Cadastro de Produto, o usuário insere um novo produto que não está cadastrado no sistema, tendo que inserir quantidade, código de barras, validade e etc. 
+
+ ![image](https://user-images.githubusercontent.com/91296105/135926364-ceeebc62-68e3-4697-883c-1b7958589cdd.png)
+
