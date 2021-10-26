@@ -15,7 +15,8 @@
 ![image](https://user-images.githubusercontent.com/91296105/138785439-b085a379-edd0-424c-ba40-2b11dded00a6.png)
 
 
+<H2> Arquivo de validação do Login </h2>
+[Uploading validacao.php…]()
 
-<p>[Uploading validacao.php…]()
-
-<p>[Uploading logout.php…]()
+<h2> Arquivo de validação do Logout </h2>
+[Uploading logout.php…]()
