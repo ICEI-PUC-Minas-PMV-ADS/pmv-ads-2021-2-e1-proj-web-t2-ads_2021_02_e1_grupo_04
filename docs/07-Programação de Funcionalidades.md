@@ -10,13 +10,16 @@
 
 ![image](https://user-images.githubusercontent.com/91296105/138785382-fb6a8d4e-7262-4272-bcb8-83b8842cc9e7.png)
 
-![image](https://user-images.githubusercontent.com/91296105/138785416-aa4c27d6-a2ca-4453-b8ca-0e39bffcc646.png)
 
-![image](https://user-images.githubusercontent.com/91296105/138785439-b085a379-edd0-424c-ba40-2b11dded00a6.png)
+
 
 
 <H2> Arquivo de validação do Login </h2>
+![image](https://user-images.githubusercontent.com/91296105/138785416-aa4c27d6-a2ca-4453-b8ca-0e39bffcc646.png)
+
 
 
 <h2> Arquivo de validação do Logout </h2>
+
+![image](https://user-images.githubusercontent.com/91296105/138785439-b085a379-edd0-424c-ba40-2b11dded00a6.png)
 
