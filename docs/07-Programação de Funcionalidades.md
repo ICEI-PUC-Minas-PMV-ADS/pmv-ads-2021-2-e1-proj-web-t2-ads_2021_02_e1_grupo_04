@@ -12,8 +12,6 @@
 
 
 
-
-
 <H2> Arquivo de validação do Login </h2>
 <code> 
   <?php
@@ -63,18 +61,15 @@
   ?>
   
   
-  
-<!-- Codigo de Logout -->
-  
   <?php
       session_start(); // Inicia a sessão
       session_destroy(); // Destrói a sessão limpando todos os valores salvos
       header("Location: index.html"); exit; // Redireciona o visitante
   ?>
+  </code>
   
 
-  
-  </code>
+
 
 
 
