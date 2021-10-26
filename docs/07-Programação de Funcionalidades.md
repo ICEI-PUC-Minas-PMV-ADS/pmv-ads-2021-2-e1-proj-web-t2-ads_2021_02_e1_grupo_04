@@ -13,3 +13,8 @@
 ![image](https://user-images.githubusercontent.com/91296105/138785416-aa4c27d6-a2ca-4453-b8ca-0e39bffcc646.png)
 
 ![image](https://user-images.githubusercontent.com/91296105/138785439-b085a379-edd0-424c-ba40-2b11dded00a6.png)
+
+
+
+[Uploading validacao.php…]()
+[Uploading logout.php…]()
