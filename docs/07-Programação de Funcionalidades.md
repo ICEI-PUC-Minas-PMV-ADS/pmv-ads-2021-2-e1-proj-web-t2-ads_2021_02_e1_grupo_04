@@ -68,6 +68,8 @@
  
   </code>
   
+  
+  <h2> Destruir Sessao - Logout  </h2>
   <code>
   
       session_start(); // Inicia a sessão
