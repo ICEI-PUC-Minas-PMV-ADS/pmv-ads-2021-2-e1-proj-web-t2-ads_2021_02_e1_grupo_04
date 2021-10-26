@@ -69,6 +69,7 @@
 <h2> Arquivo de validação do Logout </h2>
 
 <code>
+  
   <?php
       session_start(); // Inicia a sessão
       session_destroy(); // Destrói a sessão limpando todos os valores salvos
