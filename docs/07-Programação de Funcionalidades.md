@@ -68,5 +68,10 @@
 
 <h2> Arquivo de validação do Logout </h2>
 
-![image](https://user-images.githubusercontent.com/91296105/138785439-b085a379-edd0-424c-ba40-2b11dded00a6.png)
-
+<code>
+  <?php
+      session_start(); // Inicia a sessão
+      session_destroy(); // Destrói a sessão limpando todos os valores salvos
+      header("Location: index.html"); exit; // Redireciona o visitante
+  ?>
+  </code>
