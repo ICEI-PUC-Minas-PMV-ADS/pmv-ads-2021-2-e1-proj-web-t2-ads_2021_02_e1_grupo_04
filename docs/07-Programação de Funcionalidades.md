@@ -16,7 +16,7 @@
 
 
 <H2> Arquivo de validação do Login </h2>
-[Uploading validacao.php…]()
+
 
 <h2> Arquivo de validação do Logout </h2>
-[Uploading logout.php…]()
+
