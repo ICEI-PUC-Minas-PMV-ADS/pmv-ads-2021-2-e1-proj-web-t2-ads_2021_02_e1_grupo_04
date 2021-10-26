@@ -62,13 +62,9 @@
 
   ?>
   
-  </code>
-
-
-
-<h2> Arquivo de validação do Logout </h2>
-
-<code>
+  
+  
+<!-- Codigo de Logout -->
   
   <?php
       session_start(); // Inicia a sessão
@@ -76,4 +72,11 @@
       header("Location: index.html"); exit; // Redireciona o visitante
   ?>
   
+
+  
   </code>
+
+
+
+
+
