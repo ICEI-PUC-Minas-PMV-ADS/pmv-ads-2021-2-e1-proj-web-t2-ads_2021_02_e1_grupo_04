@@ -39,9 +39,7 @@ Assim que a primeira versão do sistema estiver disponível, deverá complementa
 <li><a href="docs/10-Apresentação do Projeto.md"> Apresentação do Projeto</a></li>
 <li><a href="docs/11-Referências.md"> Referências</a></li>
 <li><a href="docs/11-Referências.md"> Teste de aprendizado</a></li>
-  
-
-</ol>
+ </ol>
 
 # Código
 
