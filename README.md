@@ -1,6 +1,6 @@
 # JUST IN TIME RESIDENCIAL
 
-`Análise e desenvolvimento de sistemas PUC MINAS
+`Análise e desenvolvimento de sistemas
 
 `Projeto Interdisciplinar`
 
