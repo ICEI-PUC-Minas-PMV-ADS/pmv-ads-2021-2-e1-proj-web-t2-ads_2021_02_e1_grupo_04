@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    
+    <link
+        href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&family=Press+Start+2P&display=swap"
+        rel="stylesheet">
+    <title>JIT-Inicial</title>
+    <link rel="stylesheet" href="css/style.css">
+         <link rel="stylesheet" href="css/login.css"> 
+</head>
+
+<body class="no-js">
+    <header class="header">
+        <div class="container">
+            <a class="logo" href="index.html">
+                J.I.T. Residencial
+            </a>
+            <button type="button" class="header__btnMenu" style="display: none;">
+                M
+            </button>
+            <nav class="header__nav">
+                <ul>
+                    <li><a href='index.html'>Início</a></li>
+                    <li><a href='#'>Sobre</a></li>
+                    <li><a href='login.html'>Entrar</a></li>
+                    
+                </ul>
+            </nav>
+        </div>
+    </header>
+    <section class="hero">
+        <div class="container">
+            <div class="hero__content">
+                <article class="hero__content_block1">
+                    <form action="validacao.php" class="hero__content__form  hero__content__form_fix" method="POST">
+                        <h1 class="hero__title_form">Autenticação</h1>
+                        <p class="hero__text_form">Novo usuário? Crie uma conta <a href='cadastro.html'>aqui</a></p>
+                        <div class="hero__content__form_field">
+                            <input class="field" name='usuario' id='txUsuario' type="text" maxlength="25" placeholder="Informe seu e-mail" required>
+
+                       
+
+                            
+                        </div>
+                        <div class="hero__content__form_field">
+                            <input class="field" name="senha"  id='txSenha' type="password" placeholder="Informe a senha" required>
+
+
+                           
+
+
+
+                        </div>
+                        <div class="hero__content__form_field">
+                            <label>
+                                <input class="check" id='manterlogado' type="checkbox" placeholder="Manter logado">
+                                <span class="hero__text_form">Manter logado</span>
+                            </label>
+                        </div>
+                        <div class="hero__content__form_field">
+                            <button class="hero__btn" id='btn-submit'>Logar</button>
+                            
+                        </div>
+                        <div class="hero__content__form_field">
+                            <p class="hero__text_form">
+                                -------------------- Ou conectar com ------------------
+                            </p>
+                            <button type="button" class="hero__content__form_icon">
+                                <i class="fab fa-google"></i>
+                            </button>
+                        </div>
+
+                    </form>
+                </article>
+                <article class="hero__content_block2">
+                    <div class="hero__content__img  hero__content__img_fix"></div>
+                </article>
+            </div>
+        </div>
+    </section>
+    </section>
+    <footer class="footer">
+        <div class="container">
+            <p>Todos os direitos reservados</p>
+        </div>
+    </footer>
+    <script src='js/menu.js'> </script>
+    <script src='js/script.js'> </script>
+
+</body>
+
+</html>
