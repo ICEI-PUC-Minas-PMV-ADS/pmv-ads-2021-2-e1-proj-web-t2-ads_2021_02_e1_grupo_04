@@ -24,7 +24,7 @@ Este projeto visa a construção de um sistema para estoque residencial que poss
 
 Assim que a primeira versão do sistema estiver disponível, deverá complementar com as instruções de utilização. Descreva como instalar eventuais dependências e como executar a aplicação.
 
-# <3>Documentação</h3>
+# <h3>Documentação</h3>
 
 <ol>
 <li><a href="docs/01-Documentação de Contexto.md"> Documentação de Contexto</a></li>
