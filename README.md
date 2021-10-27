@@ -8,7 +8,7 @@
 
 Este projeto visa a construção de um sistema para estoque residencial que possibilite ao usuário a analise e compra de itens de acordo com a necessidade.
 
-## Integrantes
+## <h3>Integrantes<h3>
 
 * Felipe Helison dos Santos Desidério
 * Gabriel de Matos
@@ -16,15 +16,15 @@ Este projeto visa a construção de um sistema para estoque residencial que poss
 * Alex de Souza Galdino
 * Livia Cristina Leite Nunes Silva
 
-## Orientador
+## <h3>Orientador</h3>
 
 ** Nathalia Assis Valentim
 
-## Instruções de utilização
+## <h3>Instruções de utilização<3>
 
 Assim que a primeira versão do sistema estiver disponível, deverá complementar com as instruções de utilização. Descreva como instalar eventuais dependências e como executar a aplicação.
 
-# Documentação
+# <3>Documentação</h3>
 
 <ol>
 <li><a href="docs/01-Documentação de Contexto.md"> Documentação de Contexto</a></li>
@@ -41,10 +41,10 @@ Assim que a primeira versão do sistema estiver disponível, deverá complementa
 <li><a href="docs/11-Referências.md"> Teste de aprendizado</a></li>
  </ol>
 
-# Código
+# <h3>Código</h3>
 
 <li><a href="src/README.md"> Código Fonte</a></li>
 
-# Apresentação
+# <h3>Apresentação</h3>
 
 <li><a href="presentation/README.md"> Apresentação da solução</a></li>
