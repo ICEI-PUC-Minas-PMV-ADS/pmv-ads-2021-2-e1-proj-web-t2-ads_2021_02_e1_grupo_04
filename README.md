@@ -10,7 +10,7 @@ Este projeto visa a construção de um sistema para estoque residencial que poss
 
 ## Integrantes
 
-_Felipe Helison dos Santos Desidérioo_
+* Felipe Helison dos Santos Desidério
 * Gabriel de Matos
 * Oscar Mauricio Pereira Yañez
 * Alex de Souza Galdino
